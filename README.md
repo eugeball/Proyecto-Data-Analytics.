@@ -28,6 +28,7 @@ Este proyecto está enfocado en el perfil de analista de datos. El objetivo fue 
 ###  Que Hay en este repositorio?
 
 · Archivo EDA en donde se  realizo la limpieza de los datasets y wordcloud.
+
 · En el siguiente link se encuentra el dashboard  en donde se realizo  parte de las transformaciones, las metricas , el analisis y tambien fue usado para la presnetacion:
 
 https://drive.google.com/file/d/1kJgoN-z5DsdaGyAQIV7f6R0fR4B_Ogq1/view?usp=share_link
