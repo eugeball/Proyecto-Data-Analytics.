@@ -14,24 +14,33 @@ Con el aumento de la popularidad de los MOOC, no solo han aparecido nuevas plata
 Este proyecto está enfocado en el perfil de analista de datos. El objetivo fue desarrollar un análisis sobre los posibles competidores de una startup de tecnología que está interesada en sumarse al mercado de cursos online.
 
 
-### Requisitos :
+##  Requisitos.
 
+· Analisis exploratorio de datos y transformaciones 
 
-· Realizar un EDA.
-
-· Análisis.
-
-· WordCloud de las palabras clave que más se repiten.
+· Wordcloud 
 
 · Dashboard .
 
 · Al menos un Kpi.
 
 
-### Repositorio.
+###  Que Hay en este repositorio?
 
-· EDA.
-· 
- 
+· Archivo EDA en donde se  realizo la limpieza de los datasets y wordcloud.
+· En el siguiente link se encuentra el dashboard  en donde se realizo  parte de las transformaciones, las metricas , el analisis y tambien fue usado para la presnetacion:
+
+https://drive.google.com/file/d/1kJgoN-z5DsdaGyAQIV7f6R0fR4B_Ogq1/view?usp=share_link
+
+
+## Herramientas usadas.
+
+· Python (Pandas, Wordcloud, Matplotlib)
+
+· Power Bi.
+
+· Herramientas graficas para la presentacion.
+
+· Google drive 
 
 
